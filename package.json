@@ -1,0 +1,15 @@
+{
+  "name": "brunt_submission",
+  "version": "1.0.0",
+  "description": "J Brunt PP submission",
+  "main": "jbrunt.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan M Brunt",
+  "license": "ISC"
+}
